@@ -6,8 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class KafkaStreamDbWriterApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(KafkaStreamDbWriterApplication.class, args);
-	}
+    public static void main(String[] args) {
+        SpringApplication.run(KafkaStreamDbWriterApplication.class, args);
+    }
 
 }
